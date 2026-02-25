@@ -1,0 +1,4 @@
+incident_id,incident_ts,hospital_id,incident_type,severity,patient_count,response_duration_minutes,triage_minutes,cost_usd
+2001,2026-01-12 08:05:00,H001,Cardiac Arrest,5,1,34,5,9100
+2002,2026-01-12 08:18:00,H002,Trauma,4,2,46,9,6400
+2003,2026-01-12 08:21:00,H003,Stroke,5,1,31,4,7000

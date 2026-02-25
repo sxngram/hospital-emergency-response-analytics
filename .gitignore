@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# OS files
+.DS_Store
+
+# Generated data and runtime outputs
+warehouse.db
+data/curated/
+data/batch_output/
+data/stream_output/
+data/stream_checkpoint/
+
+# Streamlit
+.streamlit/

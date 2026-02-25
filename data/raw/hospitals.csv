@@ -1,0 +1,4 @@
+hospital_id,hospital_name,city,state,region,beds,trauma_level
+H001,Golden Gate Medical Center,San Francisco,CA,West,350,1
+H002,South Bay Regional Hospital,San Jose,CA,West,280,2
+H003,East Bay Community Hospital,Oakland,CA,West,220,2

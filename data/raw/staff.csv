@@ -1,0 +1,7 @@
+staff_id,hospital_id,staff_name,role,department,shift,active_flag
+S001,H001,Ana Patel,Doctor,Emergency,Night,1
+S002,H001,Marcus Lee,Nurse,Emergency,Day,1
+S003,H002,Sofia Nguyen,Doctor,Trauma,Day,1
+S004,H002,Elena Cruz,Paramedic,Emergency,Night,1
+S005,H003,David Kim,Nurse,Emergency,Night,1
+S006,H003,Nora Hall,Doctor,Neurology,Day,1
