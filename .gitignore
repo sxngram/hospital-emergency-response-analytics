@@ -19,3 +19,6 @@ data/stream_checkpoint/
 
 # Streamlit
 .streamlit/
+
+# Submission bundles
+*.zip
